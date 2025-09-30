@@ -16,7 +16,7 @@ if dados_usuario:
 
     img = qr.make_image(fill_color="blue", back_color="white")
 
-    nome_arquivo = "novo_qrcode.png"
+    nome_arquivo = "qrcode.png"
 
     img.save(nome_arquivo)
 

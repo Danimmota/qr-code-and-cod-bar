@@ -3,9 +3,7 @@ from barcode.writer import ImageWriter #lib para mudar a extensão do cod barras
 import os
 
 def gerar_cod_barras():
-    """
-    Gera um código de barras EAN-13 a partir de uma entrada do usuário.
-    """
+
     while True:
         dados_usuario = input("Por favor, digite 12 dígitos para gerar o código de barras: ")
         dados_usuario = dados_usuario.replace(" ", "")
