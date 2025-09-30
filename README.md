@@ -5,9 +5,11 @@
 ## 📚 Tecnologias e Bibliotecas Utilizadas
 
 - [Python 3.13](https://www.python.org/downloads/)
-- [Lib qrcode 8.2](https://pypi.org/project/qrcode/) - ferramenta para simplificar o processo para geração de QR
-- [Lib python-barcode 0.16](https://pypi.org/project/python-barcode/) - ferramenta para gerar códigos de barras no formato EAN-13.
-- [Lib pillow 11.3.0](https://pypi.org/project/pillow/) - ferramenta padrão para manipulação e processamento de imagens.
+- [Lib qrcode](https://pypi.org/project/qrcode/) - ferramenta para simplificar o processo para geração de QR
+- [Lib python-barcode](https://pypi.org/project/python-barcode/) - ferramenta para gerar códigos de barras no formato EAN-13.
+- [Lib pillow](https://pypi.org/project/pillow/) - ferramenta padrão para manipulação e processamento de imagens.
+- [Lib pandas](https://pypi.org/project/pandas/) - biblioteca que permite trabalhar com grande volume de dados
+- [Lib openpyxl](https://pypi.org/project/openpyxl/) - ferramenta para ler arquivos Excel .xlsx/xlsm/xltx/xltm
 
 ## ⚙️ Como rodar o projeto localmente
 
