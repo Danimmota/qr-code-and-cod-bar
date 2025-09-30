@@ -1,4 +1,4 @@
-<h1 align="center"> QR Code generator</h1>
+<h1 align="center"> QR Code and barcode generator</h1>
 
 - O QR Code é um gerador de QRCode e Código de barras, realizado por curiosidade e para estudos.
 
