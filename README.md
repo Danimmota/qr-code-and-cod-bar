@@ -16,9 +16,24 @@
 ### 1. Clone o repositório
 ``` bash
 
-git clone https://github.com/Danimmota/forum-hub-challenge.git
+git clone https://github.com/Danimmota/qr-code-and-cod-bar.git
 ```
-- Vá na IDE de sua preferencia (PyChamr ou VSCode) e abra o arquivo. 
+- Vá na sua IDE de preferência e abra a pasta do projeto
+
+### 1. Instale as bibliotecas e após rode o projeto
+- No terminal:
+``` bash
+
+pip install qrcode
+
+pip install python-barcode
+
+pip install pillow
+
+pip install pandas
+
+pip install openpyxl
+```
 
 ## 👩‍💻 Autora
 
